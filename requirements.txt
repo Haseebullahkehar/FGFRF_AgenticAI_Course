@@ -1,0 +1,15 @@
+langchain
+langchain-google-genai
+python-dotenv
+langchain-community
+pydantic
+requests
+openai
+# langchain_anthropic
+langchain_huggingface
+langchain-huggingface 
+huggingface-hub
+google-generativeai
+langchain_openai
+
+
