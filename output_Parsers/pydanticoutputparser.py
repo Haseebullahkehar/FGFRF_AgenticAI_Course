@@ -32,7 +32,7 @@ template = PromptTemplate(
 
 chain = template | model | parser
 
-result = chain.invoke({'place': 'Pakistani'})
+result = chain.invoke({'place': 'indian'})
 
 print(result)
 
