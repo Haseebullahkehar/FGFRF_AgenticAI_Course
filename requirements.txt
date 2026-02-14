@@ -11,5 +11,15 @@ langchain-huggingface
 huggingface-hub
 google-generativeai
 langchain_openai
+streamlit
+langchain_google_genai
+langchain-groq groq
+
+
+
+
+
+
+
 
 
